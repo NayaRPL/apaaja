@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T07:04:24.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.5.0" etag="rnCc-fHgb26vRYcZst_1" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Halaman-1" id="7p4cjxunIsNnKpSAJF3Q">
-    <mxGraphModel>
+    <mxGraphModel dx="1467" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ClMmJKzKSuN1sgCDUMyr-4" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ClMmJKzKSuN1sgCDUMyr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ClMmJKzKSuN1sgCDUMyr-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="160" width="116" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ClMmJKzKSuN1sgCDUMyr-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pengguna&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="191" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ClMmJKzKSuN1sgCDUMyr-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sistem pemesanan kamar hotel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382" y="197" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ClMmJKzKSuN1sgCDUMyr-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Database Hotel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="197" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ClMmJKzKSuN1sgCDUMyr-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="420" width="116" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ClMmJKzKSuN1sgCDUMyr-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Administrasi Pembayran&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
